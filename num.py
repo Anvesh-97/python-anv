@@ -1,0 +1,6 @@
+print(int(23.5), type(int(23.5)), isinstance(23,int))
+print(float(23))
+print(complex(23.65),type(complex(23)))
+print(hex(23))
+print(oct(23))
+print(bin(23))
